@@ -1,0 +1,31 @@
+.card-header{
+    border-color: rgb(4, 2, 95);
+}
+
+.card-header{
+    background-color: rgba(171, 253, 222, 0.979); 
+    color: rgb(4, 2, 95);
+    font-weight: bold;
+    font-size: larger;
+}
+
+.card-body{
+    background-color: rgb(234, 252, 244);
+}
+
+#btnGenerate{
+    background-color: rgba(5, 252, 157, 0.856); 
+    color: rgb(4, 2, 95);
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: rgb(4, 2, 95);
+}
+
+#btnCancel{
+    margin-left: 10px;
+    background-color: rgba(255, 27, 57, 0.637); 
+    font-weight: bold;
+    color: rgb(4, 2, 95);
+    border-radius: 5px;
+    border-color: rgb(4, 2, 95);
+}
